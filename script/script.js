@@ -6,7 +6,6 @@ function convertTemp() {
 
         alert(fahrenheit + " Fahrenheit converts to " + celsius.toFixed(2) + " Celsius.");
     } else {
-       
         alert("Please enter a valid unit.");
     }
 }
